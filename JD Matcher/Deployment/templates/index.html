@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Skills Extraction</title>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h3 style="text-align:center;">Skills Extraction</h3>
+        <!-- Define a form to take input from user -->
+        <form style="text-align:center;" action="{{ url_for('extract')}}" method="post">
+            <label style="float:left;" for="JD">Job Description</label>
+            <textarea style="height:auto;" rows="14" cols="50" name="job_description" required>{{RAW_TEXT}}</textarea>
+            <button alignItems="center" class="waves-effect waves-light btn" type="submit">Extract</button>
+        </form>
+
+        <br>
+        <div>
+            {%if OUTPUT %}
+                <span><b>Skills Required: </b></span>
+                {{ OUTPUT }}
+            {% endif %}
+        </div>
+    </div>
+</body>
+
+</html>

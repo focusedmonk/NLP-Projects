@@ -1,0 +1,1974 @@
+[
+	{
+		"text": "Worked extensively on designing & training ML models including deep neural networks. Have a sound understanding of data modeling pipelines, optimization techniques, and prevalent ML architectures. Demonstrable experience with PyTorch or Tensorflow and tools used for data science like NumPy, Pandas, and W&B. Strong software development experience in Python, preferably open-source. Familiarity with Python/C++ interfaces like Cython is a plus. Explore new ML research for improving the performance of algorithms. Good understanding of Linux and cloud CLI (GCP, AWS, or Azure). Knowledge about JIT compilation and computational graph serialization is a plus. Exposure to popular MLOps frameworks like Kubeflow, Airflow, MLFlow, and DataRobot is a plus.",
+		"ents": [
+			{
+				"start": 43,
+				"end": 45,
+				"label": "SKILL"
+			},
+			{
+				"start": 63,
+				"end": 83,
+				"label": "SKILL"
+			},
+			{
+				"start": 115,
+				"end": 138,
+				"label": "SKILL"
+			},
+			{
+				"start": 140,
+				"end": 163,
+				"label": "SKILL"
+			},
+			{
+				"start": 179,
+				"end": 181,
+				"label": "SKILL"
+			},
+			{
+				"start": 226,
+				"end": 233,
+				"label": "SKILL"
+			},
+			{
+				"start": 237,
+				"end": 247,
+				"label": "SKILL"
+			},
+			{
+				"start": 285,
+				"end": 290,
+				"label": "SKILL"
+			},
+			{
+				"start": 292,
+				"end": 298,
+				"label": "SKILL"
+			},
+			{
+				"start": 304,
+				"end": 307,
+				"label": "SKILL"
+			},
+			{
+				"start": 351,
+				"end": 357,
+				"label": "SKILL"
+			},
+			{
+				"start": 400,
+				"end": 406,
+				"label": "SKILL"
+			},
+			{
+				"start": 407,
+				"end": 410,
+				"label": "SKILL"
+			},
+			{
+				"start": 427,
+				"end": 433,
+				"label": "SKILL"
+			},
+			{
+				"start": 457,
+				"end": 459,
+				"label": "SKILL"
+			},
+			{
+				"start": 536,
+				"end": 541,
+				"label": "SKILL"
+			},
+			{
+				"start": 546,
+				"end": 555,
+				"label": "SKILL"
+			},
+			{
+				"start": 557,
+				"end": 560,
+				"label": "SKILL"
+			},
+			{
+				"start": 562,
+				"end": 565,
+				"label": "SKILL"
+			},
+			{
+				"start": 570,
+				"end": 575,
+				"label": "SKILL"
+			},
+			{
+				"start": 594,
+				"end": 609,
+				"label": "SKILL"
+			},
+			{
+				"start": 614,
+				"end": 633,
+				"label": "SKILL"
+			},
+			{
+				"start": 679,
+				"end": 684,
+				"label": "SKILL"
+			},
+			{
+				"start": 701,
+				"end": 709,
+				"label": "SKILL"
+			},
+			{
+				"start": 711,
+				"end": 718,
+				"label": "SKILL"
+			},
+			{
+				"start": 720,
+				"end": 726,
+				"label": "SKILL"
+			},
+			{
+				"start": 732,
+				"end": 741,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 84,
+				"start": 0
+			},
+			{
+				"end": 196,
+				"start": 85
+			},
+			{
+				"end": 382,
+				"start": 197
+			},
+			{
+				"end": 444,
+				"start": 383
+			},
+			{
+				"end": 513,
+				"start": 445
+			},
+			{
+				"end": 577,
+				"start": 514
+			},
+			{
+				"end": 658,
+				"start": 578
+			},
+			{
+				"end": 752,
+				"start": 659
+			}
+		]
+	},
+	{
+		"text": "Infosys  Define and drive projects in AI and Machine Learning. Identifies opportunities to leverage AI capabilities for efficiencies and cost reductions. Take end-to-end responsibility for model development, including data exploration, training data, feature extraction and model development, validation and scoring. Should have experience in Machine Learning, Artificial Intelligence, Deep Learning, Reinforcement Learning, statistical techniques to create scalable solutions for business problem.  Exposure to 1. Frameworks like Keras, TensorFlow, or Theano and sequence modeling. 2. Bot frame works across multiple vendors 3. Natural Language Processing, Computer Vision, Neural Networks, or related fields and a strong interest and desire to pursue them. Must have good communication skills with passion for automation and should be able to keep up with the innovations happening in AI, Machine Learning, Deep Learning, script based and Workflow automation.",
+		"ents": [
+			{
+				"start": 0,
+				"end": 7,
+				"label": "ORG"
+			},
+			{
+				"start": 38,
+				"end": 40,
+				"label": "SKILL"
+			},
+			{
+				"start": 45,
+				"end": 61,
+				"label": "SKILL"
+			},
+			{
+				"start": 100,
+				"end": 102,
+				"label": "SKILL"
+			},
+			{
+				"start": 189,
+				"end": 206,
+				"label": "SKILL"
+			},
+			{
+				"start": 218,
+				"end": 234,
+				"label": "SKILL"
+			},
+			{
+				"start": 236,
+				"end": 249,
+				"label": "SKILL"
+			},
+			{
+				"start": 251,
+				"end": 269,
+				"label": "SKILL"
+			},
+			{
+				"start": 274,
+				"end": 291,
+				"label": "SKILL"
+			},
+			{
+				"start": 293,
+				"end": 303,
+				"label": "SKILL"
+			},
+			{
+				"start": 308,
+				"end": 315,
+				"label": "SKILL"
+			},
+			{
+				"start": 343,
+				"end": 359,
+				"label": "SKILL"
+			},
+			{
+				"start": 891,
+				"end": 907,
+				"label": "SKILL"
+			},
+			{
+				"start": 909,
+				"end": 922,
+				"label": "SKILL"
+			},
+			{
+				"start": 531,
+				"end": 536,
+				"label": "SKILL"
+			},
+			{
+				"start": 538,
+				"end": 548,
+				"label": "SKILL"
+			},
+			{
+				"start": 553,
+				"end": 559,
+				"label": "SKILL"
+			},
+			{
+				"start": 564,
+				"end": 581,
+				"label": "SKILL"
+			},
+			{
+				"start": 586,
+				"end": 601,
+				"label": "SKILL"
+			},
+			{
+				"start": 629,
+				"end": 656,
+				"label": "SKILL"
+			},
+			{
+				"start": 658,
+				"end": 673,
+				"label": "SKILL"
+			},
+			{
+				"start": 675,
+				"end": 690,
+				"label": "SKILL"
+			},
+			{
+				"start": 812,
+				"end": 822,
+				"label": "SKILL"
+			},
+			{
+				"start": 887,
+				"end": 889,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 62,
+				"start": 0
+			},
+			{
+				"end": 153,
+				"start": 63
+			},
+			{
+				"end": 316,
+				"start": 154
+			},
+			{
+				"end": 498,
+				"start": 317
+			},
+			{
+				"end": 514,
+				"start": 499
+			},
+			{
+				"end": 582,
+				"start": 515
+			},
+			{
+				"end": 585,
+				"start": 583
+			},
+			{
+				"end": 628,
+				"start": 586
+			},
+			{
+				"end": 758,
+				"start": 629
+			},
+			{
+				"end": 961,
+				"start": 759
+			}
+		]
+	},
+	{
+		"text": "Other  AI - Hands-on experience in machine learning, deep learning computer vision models, learning and inferences Programming Language - Very good knowledge of Python, and, relevant tools and libraries (e.g. TensorFlow, NumPy, Scikit-learn, pandas). Coding - Ability to clean, high-quality, high-performance, maintainable code Optimization - Prefer knowledge of optimisation, multithreaded development, and cross-platform implementation Programming Environment - Prefer knowledge of code version tools like Git",
+		"ents": [
+			{
+				"start": 7,
+				"end": 9,
+				"label": "SKILL"
+			},
+			{
+				"start": 35,
+				"end": 51,
+				"label": "SKILL"
+			},
+			{
+				"start": 53,
+				"end": 66,
+				"label": "SKILL"
+			},
+			{
+				"start": 67,
+				"end": 82,
+				"label": "SKILL"
+			},
+			{
+				"start": 161,
+				"end": 167,
+				"label": "SKILL"
+			},
+			{
+				"start": 209,
+				"end": 219,
+				"label": "SKILL"
+			},
+			{
+				"start": 221,
+				"end": 226,
+				"label": "SKILL"
+			},
+			{
+				"start": 228,
+				"end": 240,
+				"label": "SKILL"
+			},
+			{
+				"start": 242,
+				"end": 248,
+				"label": "SKILL"
+			},
+			{
+				"start": 363,
+				"end": 375,
+				"label": "SKILL"
+			},
+			{
+				"start": 377,
+				"end": 402,
+				"label": "SKILL"
+			},
+			{
+				"start": 408,
+				"end": 422,
+				"label": "SKILL"
+			},
+			{
+				"start": 508,
+				"end": 511,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 250,
+				"start": 0
+			},
+			{
+				"end": 511,
+				"start": 251
+			}
+		]
+	},
+	{
+		"text": "Other  Intuitive understanding of the DL math, model behaviors, techniques already available in open world. TensorFlow, Python, Pandas, Numpy, DASH, Jupyter notebook, etc. Most importantly – data aptitude.",
+		"ents": [
+			{
+				"start": 38,
+				"end": 40,
+				"label": "SKILL"
+			},
+			{
+				"start": 41,
+				"end": 45,
+				"label": "SKILL"
+			},
+			{
+				"start": 47,
+				"end": 62,
+				"label": "SKILL"
+			},
+			{
+				"start": 108,
+				"end": 118,
+				"label": "SKILL"
+			},
+			{
+				"start": 120,
+				"end": 126,
+				"label": "SKILL"
+			},
+			{
+				"start": 128,
+				"end": 134,
+				"label": "SKILL"
+			},
+			{
+				"start": 136,
+				"end": 141,
+				"label": "SKILL"
+			},
+			{
+				"start": 143,
+				"end": 147,
+				"label": "SKILL"
+			},
+			{
+				"start": 149,
+				"end": 165,
+				"label": "SKILL"
+			},
+			{
+				"start": 191,
+				"end": 204,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 107,
+				"start": 0
+			},
+			{
+				"end": 171,
+				"start": 108
+			},
+			{
+				"end": 205,
+				"start": 172
+			}
+		]
+	},
+	{
+		"text": "Bosch  Experience with Python data analysis libraries (pandas, sklearn, numpy, scipy, and matplotlib), and Spark MLlib. Proficiency with Spark, Hadoop, Kafka, Hive, and SQL. Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc. Solid software engineering skills, with proficiency in Python and experience in providing them as services. GIT, Python web framework Web2Py/Django/ Flask. Experience with data visualization tools, such as D3.js, GGplot, etc. is a plus. Selecting features, building and optimizing classifiers using machine learning techniques. Data mining using state-of-the-art methods. Extending company’s data with third party sources of information when needed. Enhancing data collection procedures to include information that is relevant for building analytic systems. Processing, cleansing, and verifying the integrity of data used for analysis. Doing ad-hoc analysis and presenting results in a clear manner. Creating automated anomaly detection systems and constant tracking of its performance. Model Deployments in Container Platform.",
+		"ents": [
+			{
+				"start": 0,
+				"end": 5,
+				"label": "ORG"
+			},
+			{
+				"start": 23,
+				"end": 29,
+				"label": "SKILL"
+			},
+			{
+				"start": 55,
+				"end": 61,
+				"label": "SKILL"
+			},
+			{
+				"start": 63,
+				"end": 70,
+				"label": "SKILL"
+			},
+			{
+				"start": 72,
+				"end": 77,
+				"label": "SKILL"
+			},
+			{
+				"start": 79,
+				"end": 84,
+				"label": "SKILL"
+			},
+			{
+				"start": 90,
+				"end": 100,
+				"label": "SKILL"
+			},
+			{
+				"start": 107,
+				"end": 118,
+				"label": "SKILL"
+			},
+			{
+				"start": 137,
+				"end": 142,
+				"label": "SKILL"
+			},
+			{
+				"start": 144,
+				"end": 150,
+				"label": "SKILL"
+			},
+			{
+				"start": 152,
+				"end": 157,
+				"label": "SKILL"
+			},
+			{
+				"start": 159,
+				"end": 163,
+				"label": "SKILL"
+			},
+			{
+				"start": 169,
+				"end": 172,
+				"label": "SKILL"
+			},
+			{
+				"start": 201,
+				"end": 217,
+				"label": "SKILL"
+			},
+			{
+				"start": 253,
+				"end": 257,
+				"label": "SKILL"
+			},
+			{
+				"start": 259,
+				"end": 270,
+				"label": "SKILL"
+			},
+			{
+				"start": 272,
+				"end": 275,
+				"label": "SKILL"
+			},
+			{
+				"start": 277,
+				"end": 293,
+				"label": "SKILL"
+			},
+			{
+				"start": 355,
+				"end": 361,
+				"label": "SKILL"
+			},
+			{
+				"start": 408,
+				"end": 411,
+				"label": "SKILL"
+			},
+			{
+				"start": 413,
+				"end": 419,
+				"label": "SKILL"
+			},
+			{
+				"start": 434,
+				"end": 440,
+				"label": "SKILL"
+			},
+			{
+				"start": 441,
+				"end": 447,
+				"label": "SKILL"
+			},
+			{
+				"start": 449,
+				"end": 454,
+				"label": "SKILL"
+			},
+			{
+				"start": 506,
+				"end": 511,
+				"label": "SKILL"
+			},
+			{
+				"start": 513,
+				"end": 519,
+				"label": "SKILL"
+			},
+			{
+				"start": 537,
+				"end": 555,
+				"label": "SKILL"
+			},
+			{
+				"start": 570,
+				"end": 592,
+				"label": "SKILL"
+			},
+			{
+				"start": 599,
+				"end": 615,
+				"label": "SKILL"
+			},
+			{
+				"start": 628,
+				"end": 639,
+				"label": "SKILL"
+			},
+			{
+				"start": 942,
+				"end": 957,
+				"label": "SKILL"
+			},
+			{
+				"start": 1019,
+				"end": 1036,
+				"label": "SKILL"
+			},
+			{
+				"start": 1087,
+				"end": 1104,
+				"label": "SKILL"
+			},
+			{
+				"start": 1108,
+				"end": 1117,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 119,
+				"start": 0
+			},
+			{
+				"end": 173,
+				"start": 120
+			},
+			{
+				"end": 299,
+				"start": 174
+			},
+			{
+				"end": 407,
+				"start": 300
+			},
+			{
+				"end": 455,
+				"start": 408
+			},
+			{
+				"end": 536,
+				"start": 456
+			},
+			{
+				"end": 627,
+				"start": 537
+			},
+			{
+				"end": 671,
+				"start": 628
+			},
+			{
+				"end": 749,
+				"start": 672
+			},
+			{
+				"end": 857,
+				"start": 750
+			},
+			{
+				"end": 935,
+				"start": 858
+			},
+			{
+				"end": 999,
+				"start": 936
+			},
+			{
+				"end": 1086,
+				"start": 1000
+			},
+			{
+				"end": 1127,
+				"start": 1087
+			}
+		]
+	},
+	{
+		"text": "Agoda  3+ years hands-on data science experience Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks Significant proficiency in SQL and languages like Python, PySpark and/or Scala Can lead, work independently as well as play a key role in a team Good communication and interpersonal skills for working in a multicultural work environment Experience in NLP, image processing and/or recommendation systems Hands on experience in data engineering, working with big data framework like Spark/Hadoop Experience in data science for e-commerce and/or OTA",
+		"ents": [
+			{
+				"start": 0,
+				"end": 5,
+				"label": "ORG"
+			},
+			{
+				"start": 25,
+				"end": 37,
+				"label": "SKILL"
+			},
+			{
+				"start": 76,
+				"end": 78,
+				"label": "SKILL"
+			},
+			{
+				"start": 79,
+				"end": 81,
+				"label": "SKILL"
+			},
+			{
+				"start": 82,
+				"end": 84,
+				"label": "SKILL"
+			},
+			{
+				"start": 89,
+				"end": 99,
+				"label": "SKILL"
+			},
+			{
+				"start": 112,
+				"end": 130,
+				"label": "SKILL"
+			},
+			{
+				"start": 209,
+				"end": 212,
+				"label": "SKILL"
+			},
+			{
+				"start": 232,
+				"end": 238,
+				"label": "SKILL"
+			},
+			{
+				"start": 240,
+				"end": 247,
+				"label": "SKILL"
+			},
+			{
+				"start": 255,
+				"end": 260,
+				"label": "SKILL"
+			},
+			{
+				"start": 433,
+				"end": 436,
+				"label": "SKILL"
+			},
+			{
+				"start": 438,
+				"end": 454,
+				"label": "SKILL"
+			},
+			{
+				"start": 462,
+				"end": 484,
+				"label": "SKILL"
+			},
+			{
+				"start": 508,
+				"end": 524,
+				"label": "SKILL"
+			},
+			{
+				"start": 539,
+				"end": 547,
+				"label": "SKILL"
+			},
+			{
+				"start": 563,
+				"end": 568,
+				"label": "SKILL"
+			},
+			{
+				"start": 569,
+				"end": 575,
+				"label": "SKILL"
+			},
+			{
+				"start": 590,
+				"end": 602,
+				"label": "SKILL"
+			},
+			{
+				"start": 625,
+				"end": 628,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 628,
+				"start": 0
+			}
+		]
+	},
+	{
+		"text": "PAR Technology  A solid understanding of statistical modeling/machine learning/data mining Proficiency in Python and AWS machine learning packages Experience with Python web framework, e.g. Flask, Django or FastAPI Experience with databases (Elasticsearch, SQL, NoSQL, Hive) Experience in a cloud environment for software development and deployment (AWS preferred) Excellent communication skills and ability to articulate a complex concept with thoughtful, actionable recommendations",
+		"ents": [
+			{
+				"start": 0,
+				"end": 14,
+				"label": "ORG"
+			},
+			{
+				"start": 41,
+				"end": 61,
+				"label": "SKILL"
+			},
+			{
+				"start": 62,
+				"end": 78,
+				"label": "SKILL"
+			},
+			{
+				"start": 79,
+				"end": 90,
+				"label": "SKILL"
+			},
+			{
+				"start": 106,
+				"end": 112,
+				"label": "SKILL"
+			},
+			{
+				"start": 117,
+				"end": 120,
+				"label": "SKILL"
+			},
+			{
+				"start": 121,
+				"end": 137,
+				"label": "SKILL"
+			},
+			{
+				"start": 163,
+				"end": 169,
+				"label": "SKILL"
+			},
+			{
+				"start": 190,
+				"end": 195,
+				"label": "SKILL"
+			},
+			{
+				"start": 197,
+				"end": 203,
+				"label": "SKILL"
+			},
+			{
+				"start": 207,
+				"end": 214,
+				"label": "SKILL"
+			},
+			{
+				"start": 231,
+				"end": 240,
+				"label": "SKILL"
+			},
+			{
+				"start": 242,
+				"end": 255,
+				"label": "SKILL"
+			},
+			{
+				"start": 257,
+				"end": 260,
+				"label": "SKILL"
+			},
+			{
+				"start": 262,
+				"end": 267,
+				"label": "SKILL"
+			},
+			{
+				"start": 269,
+				"end": 273,
+				"label": "SKILL"
+			},
+			{
+				"start": 291,
+				"end": 308,
+				"label": "SKILL"
+			},
+			{
+				"start": 350,
+				"end": 353,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 364,
+				"start": 0
+			},
+			{
+				"end": 483,
+				"start": 365
+			}
+		]
+	},
+	{
+		"text": "Pelican.ai  Sound knowledge of statistical concepts. At least one programming knowledge – R/Python Sound knowledge of database concepts and SQL Writing Experience with pre-processing of data for machine learning Data Extraction, Transformation, and Loading Exploratory Data Analysis Machine Learning – Supervised & Unsupervised Learning algorithms Advanced Machine Learning (Deep Learning) Machine Learning - NLP and Text Processing Exposure to Big Data Processing Frameworks Data Visualization",
+		"ents": [
+			{
+				"start": 0,
+				"end": 10,
+				"label": "ORG"
+			},
+			{
+				"start": 31,
+				"end": 51,
+				"label": "SKILL"
+			},
+			{
+				"start": 90,
+				"end": 91,
+				"label": "SKILL"
+			},
+			{
+				"start": 92,
+				"end": 98,
+				"label": "SKILL"
+			},
+			{
+				"start": 140,
+				"end": 143,
+				"label": "SKILL"
+			},
+			{
+				"start": 195,
+				"end": 211,
+				"label": "SKILL"
+			},
+			{
+				"start": 212,
+				"end": 227,
+				"label": "SKILL"
+			},
+			{
+				"start": 229,
+				"end": 243,
+				"label": "SKILL"
+			},
+			{
+				"start": 257,
+				"end": 282,
+				"label": "SKILL"
+			},
+			{
+				"start": 283,
+				"end": 299,
+				"label": "SKILL"
+			},
+			{
+				"start": 302,
+				"end": 312,
+				"label": "SKILL"
+			},
+			{
+				"start": 315,
+				"end": 336,
+				"label": "SKILL"
+			},
+			{
+				"start": 348,
+				"end": 373,
+				"label": "SKILL"
+			},
+			{
+				"start": 375,
+				"end": 388,
+				"label": "SKILL"
+			},
+			{
+				"start": 390,
+				"end": 406,
+				"label": "SKILL"
+			},
+			{
+				"start": 409,
+				"end": 412,
+				"label": "SKILL"
+			},
+			{
+				"start": 417,
+				"end": 432,
+				"label": "SKILL"
+			},
+			{
+				"start": 445,
+				"end": 464,
+				"label": "SKILL"
+			},
+			{
+				"start": 476,
+				"end": 494,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 52,
+				"start": 0
+			},
+			{
+				"end": 389,
+				"start": 53
+			},
+			{
+				"end": 494,
+				"start": 390
+			}
+		]
+	},
+	{
+		"text": "Gojek  Experience building production ML pipelines for model training/prediction Experience working with large data sets, coming from varied sources Experience working with open source ML libraries such as Tensorflow, PyTorch and XGBoost Experience working with ML model training/deployment tools (such as Airflow, Kubeflow, Seldon) Familiarity with data engineering tools (Flink/Spark/Kafka etc) Experience with both object-oriented and functional programming concepts and languages",
+		"ents": [
+			{
+				"start": 0,
+				"end": 5,
+				"label": "ORG"
+			},
+			{
+				"start": 38,
+				"end": 50,
+				"label": "SKILL"
+			},
+			{
+				"start": 55,
+				"end": 69,
+				"label": "SKILL"
+			},
+			{
+				"start": 70,
+				"end": 80,
+				"label": "SKILL"
+			},
+			{
+				"start": 185,
+				"end": 187,
+				"label": "SKILL"
+			},
+			{
+				"start": 206,
+				"end": 216,
+				"label": "SKILL"
+			},
+			{
+				"start": 218,
+				"end": 225,
+				"label": "SKILL"
+			},
+			{
+				"start": 230,
+				"end": 237,
+				"label": "SKILL"
+			},
+			{
+				"start": 262,
+				"end": 264,
+				"label": "SKILL"
+			},
+			{
+				"start": 265,
+				"end": 279,
+				"label": "SKILL"
+			},
+			{
+				"start": 280,
+				"end": 290,
+				"label": "SKILL"
+			},
+			{
+				"start": 306,
+				"end": 313,
+				"label": "SKILL"
+			},
+			{
+				"start": 315,
+				"end": 323,
+				"label": "SKILL"
+			},
+			{
+				"start": 325,
+				"end": 331,
+				"label": "SKILL"
+			},
+			{
+				"start": 374,
+				"end": 379,
+				"label": "SKILL"
+			},
+			{
+				"start": 380,
+				"end": 385,
+				"label": "SKILL"
+			},
+			{
+				"start": 386,
+				"end": 391,
+				"label": "SKILL"
+			},
+			{
+				"start": 418,
+				"end": 433,
+				"label": "SKILL"
+			},
+			{
+				"start": 438,
+				"end": 460,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 332,
+				"start": 0
+			},
+			{
+				"end": 483,
+				"start": 333
+			}
+		]
+	},
+	{
+		"text": "Blacksmith Solution  Excellent Python (NumPy, pandas, scikit-learn, etc.) or R programming skills, familiar with open source libraries and tools for data science Track record of speedily and rigorously developing and deploying machine learning models to resolve industry problems Strong SQL skills Superior communication and data visualization skills Experience working in an agile development environment",
+		"ents": [
+			{
+				"start": 0,
+				"end": 19,
+				"label": "ORG"
+			},
+			{
+				"start": 31,
+				"end": 37,
+				"label": "SKILL"
+			},
+			{
+				"start": 39,
+				"end": 44,
+				"label": "SKILL"
+			},
+			{
+				"start": 46,
+				"end": 52,
+				"label": "SKILL"
+			},
+			{
+				"start": 54,
+				"end": 66,
+				"label": "SKILL"
+			},
+			{
+				"start": 77,
+				"end": 90,
+				"label": "SKILL"
+			},
+			{
+				"start": 149,
+				"end": 161,
+				"label": "SKILL"
+			},
+			{
+				"start": 227,
+				"end": 243,
+				"label": "SKILL"
+			},
+			{
+				"start": 287,
+				"end": 290,
+				"label": "SKILL"
+			},
+			{
+				"start": 325,
+				"end": 343,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 279,
+				"start": 0
+			},
+			{
+				"end": 405,
+				"start": 280
+			}
+		]
+	},
+	{
+		"text": "IBM  Technology expertise of solutioning in Hadoop, Hive, Spark / PySpark, SQL, Oozie along Data Modelling in Hive Experience in programming Languages- Java / Python / Scala and ability to demonstrate micro / macro designing and familiar with Unix Commands and basic work experience in Unix Shell Scripting Developing web apps for Demand Forecasting, News Sentiment analysis using python frameworks such as spacy, flair, dash, flask. Creating power BI dashboards on historic and prediction data for client use case -should be involved in designing the process and implementation of key entities extraction from millions of unstructured files using python NLP techniques and Apache spark. Gathering requirements, extracting right data, pre-processing, labelling and ML model creation for massive real-world dataset Working knowledge in one NoSQL database like MongoDB/Cassandra/HBase/Couchbase Hands-on experience of various Big data architectures like Lambda / kappa with usage of automation / scheduling tool like Oozie or Cronacle or any other technology Proven ability in solutioning covering data ingestion, data cleansing, ETL, data mart creation and exposing data for consumers",
+		"ents": [
+			{
+				"start": 0,
+				"end": 3,
+				"label": "ORG"
+			},
+			{
+				"start": 44,
+				"end": 50,
+				"label": "SKILL"
+			},
+			{
+				"start": 52,
+				"end": 56,
+				"label": "SKILL"
+			},
+			{
+				"start": 58,
+				"end": 63,
+				"label": "SKILL"
+			},
+			{
+				"start": 66,
+				"end": 73,
+				"label": "SKILL"
+			},
+			{
+				"start": 75,
+				"end": 78,
+				"label": "SKILL"
+			},
+			{
+				"start": 80,
+				"end": 85,
+				"label": "SKILL"
+			},
+			{
+				"start": 92,
+				"end": 106,
+				"label": "SKILL"
+			},
+			{
+				"start": 110,
+				"end": 114,
+				"label": "SKILL"
+			},
+			{
+				"start": 152,
+				"end": 156,
+				"label": "SKILL"
+			},
+			{
+				"start": 159,
+				"end": 165,
+				"label": "SKILL"
+			},
+			{
+				"start": 168,
+				"end": 173,
+				"label": "SKILL"
+			},
+			{
+				"start": 243,
+				"end": 247,
+				"label": "SKILL"
+			},
+			{
+				"start": 286,
+				"end": 306,
+				"label": "SKILL"
+			},
+			{
+				"start": 331,
+				"end": 349,
+				"label": "SKILL"
+			},
+			{
+				"start": 351,
+				"end": 374,
+				"label": "SKILL"
+			},
+			{
+				"start": 381,
+				"end": 387,
+				"label": "SKILL"
+			},
+			{
+				"start": 407,
+				"end": 412,
+				"label": "SKILL"
+			},
+			{
+				"start": 414,
+				"end": 419,
+				"label": "SKILL"
+			},
+			{
+				"start": 421,
+				"end": 425,
+				"label": "SKILL"
+			},
+			{
+				"start": 427,
+				"end": 432,
+				"label": "SKILL"
+			},
+			{
+				"start": 443,
+				"end": 451,
+				"label": "SKILL"
+			},
+			{
+				"start": 648,
+				"end": 654,
+				"label": "SKILL"
+			},
+			{
+				"start": 655,
+				"end": 658,
+				"label": "SKILL"
+			},
+			{
+				"start": 674,
+				"end": 686,
+				"label": "SKILL"
+			},
+			{
+				"start": 765,
+				"end": 767,
+				"label": "SKILL"
+			},
+			{
+				"start": 768,
+				"end": 782,
+				"label": "SKILL"
+			},
+			{
+				"start": 839,
+				"end": 853,
+				"label": "SKILL"
+			},
+			{
+				"start": 859,
+				"end": 866,
+				"label": "SKILL"
+			},
+			{
+				"start": 867,
+				"end": 876,
+				"label": "SKILL"
+			},
+			{
+				"start": 877,
+				"end": 882,
+				"label": "SKILL"
+			},
+			{
+				"start": 883,
+				"end": 892,
+				"label": "SKILL"
+			},
+			{
+				"start": 924,
+				"end": 932,
+				"label": "SKILL"
+			},
+			{
+				"start": 952,
+				"end": 958,
+				"label": "SKILL"
+			},
+			{
+				"start": 961,
+				"end": 966,
+				"label": "SKILL"
+			},
+			{
+				"start": 1015,
+				"end": 1020,
+				"label": "SKILL"
+			},
+			{
+				"start": 1024,
+				"end": 1032,
+				"label": "SKILL"
+			},
+			{
+				"start": 1096,
+				"end": 1110,
+				"label": "SKILL"
+			},
+			{
+				"start": 1112,
+				"end": 1126,
+				"label": "SKILL"
+			},
+			{
+				"start": 1128,
+				"end": 1131,
+				"label": "SKILL"
+			},
+			{
+				"start": 1133,
+				"end": 1151,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 151,
+				"start": 0
+			},
+			{
+				"end": 433,
+				"start": 152
+			},
+			{
+				"end": 687,
+				"start": 434
+			},
+			{
+				"end": 1183,
+				"start": 688
+			}
+		]
+	},
+	{
+		"text": "Ascent Technosystems 1. At least 2-6 years of experience as a Data Scientist in ML such as NLP, Machine vision, Time series, etc. Freshers certified in Machine Learning can also apply. 2. Strong expertise in Model Tuning, Model Validation, Supervised and Unsupervised Learning. 3. Hands on experience with model development, data preparation, training and inference ready deployment of models. 4. Well versed on descriptive and inferential statistics, hypothesis testing, etc. 5. Excellent at data analysis and exploration skills. Develops the code useful for reproducible analysis of data. 6. Good hands-on knowledge of AWS Sagemaker, Lambda, Glue, Step functions and EC2. 7. Knowledge of Databricks, Anaconda distribution and similar data science code development and deployment IDEs. 8. Well versed with ML algorithms related to time-series, natural language processing, optimization, object detection, topic modeling, clustering and regression analysis. 9. Strong expertise in Hive/Impala, Spark, Python Pandas, Keras, SKLearn, StatsModels, Tensorflow, PyTorch.",
+		"ents": [
+			{
+				"start": 0,
+				"end": 20,
+				"label": "ORG"
+			},
+			{
+				"start": 62,
+				"end": 76,
+				"label": "SKILL"
+			},
+			{
+				"start": 80,
+				"end": 82,
+				"label": "SKILL"
+			},
+			{
+				"start": 91,
+				"end": 94,
+				"label": "SKILL"
+			},
+			{
+				"start": 96,
+				"end": 110,
+				"label": "SKILL"
+			},
+			{
+				"start": 112,
+				"end": 123,
+				"label": "SKILL"
+			},
+			{
+				"start": 152,
+				"end": 168,
+				"label": "SKILL"
+			},
+			{
+				"start": 208,
+				"end": 220,
+				"label": "SKILL"
+			},
+			{
+				"start": 222,
+				"end": 238,
+				"label": "SKILL"
+			},
+			{
+				"start": 240,
+				"end": 250,
+				"label": "SKILL"
+			},
+			{
+				"start": 255,
+				"end": 276,
+				"label": "SKILL"
+			},
+			{
+				"start": 306,
+				"end": 323,
+				"label": "SKILL"
+			},
+			{
+				"start": 325,
+				"end": 341,
+				"label": "SKILL"
+			},
+			{
+				"start": 343,
+				"end": 351,
+				"label": "SKILL"
+			},
+			{
+				"start": 372,
+				"end": 392,
+				"label": "SKILL"
+			},
+			{
+				"start": 412,
+				"end": 423,
+				"label": "SKILL"
+			},
+			{
+				"start": 428,
+				"end": 450,
+				"label": "SKILL"
+			},
+			{
+				"start": 452,
+				"end": 470,
+				"label": "SKILL"
+			},
+			{
+				"start": 493,
+				"end": 506,
+				"label": "SKILL"
+			},
+			{
+				"start": 511,
+				"end": 529,
+				"label": "SKILL"
+			},
+			{
+				"start": 621,
+				"end": 634,
+				"label": "SKILL"
+			},
+			{
+				"start": 636,
+				"end": 642,
+				"label": "SKILL"
+			},
+			{
+				"start": 644,
+				"end": 648,
+				"label": "SKILL"
+			},
+			{
+				"start": 621,
+				"end": 634,
+				"label": "SKILL"
+			},
+			{
+				"start": 636,
+				"end": 642,
+				"label": "SKILL"
+			},
+			{
+				"start": 644,
+				"end": 648,
+				"label": "SKILL"
+			},
+			{
+				"start": 650,
+				"end": 664,
+				"label": "SKILL"
+			},
+			{
+				"start": 669,
+				"end": 672,
+				"label": "SKILL"
+			},
+			{
+				"start": 621,
+				"end": 634,
+				"label": "SKILL"
+			},
+			{
+				"start": 636,
+				"end": 642,
+				"label": "SKILL"
+			},
+			{
+				"start": 644,
+				"end": 648,
+				"label": "SKILL"
+			},
+			{
+				"start": 650,
+				"end": 664,
+				"label": "SKILL"
+			},
+			{
+				"start": 669,
+				"end": 672,
+				"label": "SKILL"
+			},
+			{
+				"start": 690,
+				"end": 700,
+				"label": "SKILL"
+			},
+			{
+				"start": 690,
+				"end": 700,
+				"label": "SKILL"
+			},
+			{
+				"start": 702,
+				"end": 710,
+				"label": "SKILL"
+			},
+			{
+				"start": 690,
+				"end": 700,
+				"label": "SKILL"
+			},
+			{
+				"start": 736,
+				"end": 748,
+				"label": "SKILL"
+			},
+			{
+				"start": 807,
+				"end": 809,
+				"label": "SKILL"
+			},
+			{
+				"start": 807,
+				"end": 809,
+				"label": "SKILL"
+			},
+			{
+				"start": 832,
+				"end": 843,
+				"label": "SKILL"
+			},
+			{
+				"start": 845,
+				"end": 872,
+				"label": "SKILL"
+			},
+			{
+				"start": 874,
+				"end": 886,
+				"label": "SKILL"
+			},
+			{
+				"start": 888,
+				"end": 904,
+				"label": "SKILL"
+			},
+			{
+				"start": 906,
+				"end": 920,
+				"label": "SKILL"
+			},
+			{
+				"start": 922,
+				"end": 932,
+				"label": "SKILL"
+			},
+			{
+				"start": 937,
+				"end": 956,
+				"label": "SKILL"
+			},
+			{
+				"start": 981,
+				"end": 985,
+				"label": "SKILL"
+			},
+			{
+				"start": 981,
+				"end": 985,
+				"label": "SKILL"
+			},
+			{
+				"start": 986,
+				"end": 992,
+				"label": "SKILL"
+			},
+			{
+				"start": 994,
+				"end": 999,
+				"label": "SKILL"
+			},
+			{
+				"start": 1001,
+				"end": 1007,
+				"label": "SKILL"
+			},
+			{
+				"start": 1008,
+				"end": 1014,
+				"label": "SKILL"
+			},
+			{
+				"start": 1016,
+				"end": 1021,
+				"label": "SKILL"
+			},
+			{
+				"start": 1023,
+				"end": 1030,
+				"label": "SKILL"
+			},
+			{
+				"start": 1032,
+				"end": 1043,
+				"label": "SKILL"
+			},
+			{
+				"start": 1045,
+				"end": 1055,
+				"label": "SKILL"
+			},
+			{
+				"start": 1057,
+				"end": 1064,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 23,
+				"start": 0
+			},
+			{
+				"end": 129,
+				"start": 24
+			},
+			{
+				"end": 184,
+				"start": 130
+			},
+			{
+				"end": 187,
+				"start": 185
+			},
+			{
+				"end": 277,
+				"start": 188
+			},
+			{
+				"end": 280,
+				"start": 278
+			},
+			{
+				"end": 393,
+				"start": 281
+			},
+			{
+				"end": 396,
+				"start": 394
+			},
+			{
+				"end": 479,
+				"start": 397
+			},
+			{
+				"end": 530,
+				"start": 480
+			},
+			{
+				"end": 590,
+				"start": 531
+			},
+			{
+				"end": 593,
+				"start": 591
+			},
+			{
+				"end": 673,
+				"start": 594
+			},
+			{
+				"end": 676,
+				"start": 674
+			},
+			{
+				"end": 786,
+				"start": 677
+			},
+			{
+				"end": 789,
+				"start": 787
+			},
+			{
+				"end": 957,
+				"start": 790
+			},
+			{
+				"end": 960,
+				"start": 958
+			},
+			{
+				"end": 1065,
+				"start": 961
+			}
+		]
+	},
+	{
+		"text": "Intellexe  Software Professionals Work location - Bangalore Exp - 3 - 10 years AI and Machine Learning Engineer/Team Lead/Tech. Manager. Applying AI and machine learning techniques for image and video analysis for object detection Knowledge of neural network architectures experience on any one Deep-learning libraries, such as Tensorflow, keras and pyTorch understanding of nvidia deepstream sdk. expert in python programming should be knowing to create, test and implement AI models along with the handling of the AI infrastructure like USB, CSI and IP cameras basic understanding of edge devices like Jetson Nano and raspberry pi and comfort in building applications for this devices. basics of data streaming technologies like Amazon Kinesis and Apache Kafka Experience in data analytics computer vision",
+		"ents": [
+			{
+				"start": 79,
+				"end": 81,
+				"label": "SKILL"
+			},
+			{
+				"start": 86,
+				"end": 102,
+				"label": "SKILL"
+			},
+			{
+				"start": 146,
+				"end": 148,
+				"label": "SKILL"
+			},
+			{
+				"start": 153,
+				"end": 169,
+				"label": "SKILL"
+			},
+			{
+				"start": 185,
+				"end": 209,
+				"label": "SKILL"
+			},
+			{
+				"start": 214,
+				"end": 230,
+				"label": "SKILL"
+			},
+			{
+				"start": 244,
+				"end": 258,
+				"label": "SKILL"
+			},
+			{
+				"start": 295,
+				"end": 308,
+				"label": "SKILL"
+			},
+			{
+				"start": 328,
+				"end": 338,
+				"label": "SKILL"
+			},
+			{
+				"start": 340,
+				"end": 345,
+				"label": "SKILL"
+			},
+			{
+				"start": 350,
+				"end": 357,
+				"label": "SKILL"
+			},
+			{
+				"start": 375,
+				"end": 396,
+				"label": "SKILL"
+			},
+			{
+				"start": 408,
+				"end": 414,
+				"label": "SKILL"
+			},
+			{
+				"start": 475,
+				"end": 484,
+				"label": "SKILL"
+			},
+			{
+				"start": 516,
+				"end": 533,
+				"label": "SKILL"
+			},
+			{
+				"start": 539,
+				"end": 542,
+				"label": "SKILL"
+			},
+			{
+				"start": 544,
+				"end": 547,
+				"label": "SKILL"
+			},
+			{
+				"start": 552,
+				"end": 562,
+				"label": "SKILL"
+			},
+			{
+				"start": 604,
+				"end": 615,
+				"label": "SKILL"
+			},
+			{
+				"start": 620,
+				"end": 632,
+				"label": "SKILL"
+			},
+			{
+				"start": 731,
+				"end": 745,
+				"label": "SKILL"
+			},
+			{
+				"start": 750,
+				"end": 762,
+				"label": "SKILL"
+			},
+			{
+				"start": 777,
+				"end": 791,
+				"label": "SKILL"
+			},
+			{
+				"start": 792,
+				"end": 807,
+				"label": "SKILL"
+			}
+		],
+		"sents": [
+			{
+				"end": 136,
+				"start": 0
+			},
+			{
+				"end": 397,
+				"start": 137
+			},
+			{
+				"end": 687,
+				"start": 398
+			},
+			{
+				"end": 807,
+				"start": 688
+			}
+		]
+	}
+]
